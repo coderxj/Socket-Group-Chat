@@ -1,5 +1,5 @@
 # Socket-Group-Chat
-多人聊天的雏形。
+多人聊天程序的雏形。
 
 coding 环境：VS2015 WIN10
 
