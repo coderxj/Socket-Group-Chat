@@ -7,7 +7,7 @@ coding 环境：VS2015 WIN10
 
 语言：C
 
-功能：基于1V1的服务器转发消息聊天
+功能：基于服务器转发消息的1V1聊天
 
 主要原理：client都连上server，然后server通过判断client socket的不同进而转发消息。
 
